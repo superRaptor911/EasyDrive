@@ -6,6 +6,7 @@ A very simple python3 script to download / upload files from **google drive** us
 **Install google client api**
 ```console
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+python -m pip install google-api-python-client==1.8.0
 ```
 **Install pydrive**
 ```console
